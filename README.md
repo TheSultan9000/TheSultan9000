@@ -10,30 +10,29 @@
 ### My background
 #### I was not always on the path of data sceince
 <p> 
-    
-    👨‍🎓 I completed my BSc in Biomedical science (Brunel university London), my MSc in Immunology (Imperial College London)
-       and my PhD in Regenerative medicine (King's College London)
-
+    👨‍🎓 I completed my BSc in Biomedical science (Brunel university London), my MSc in Immunology (Imperial College London) and my PhD in Regenerative medicine (King's College London)
     🧑‍🏫 During my studies I had the oppertunity to work with statisticians which ignited my passion for data science
+</p>
 
   <p align="center">
     <i>
       🧙 "All we have to decide is what to do with the time that is given to us" - Gandalf
     </i>
   </p>
+  
+<p> 
+    🖥️ Since completing my PhD I have made it my mission to learn as much as possible in the way of programming languages to help my progression in data science
+</p>
     
-    🖥️ Since completing my PhD I have made it my mission to learn as much as possible in the way of programming
-       languages to help my progression in data science
-
   <p align="center">
     <i>
       🧙 "You can learn all there is to know about their ways in a month, and yet after a hundred years thay can still surprise you" - Gandalf
     </i>
   </p>
-    
-    📚 And although I have learnt a lot in the year post PhD, I know I have pleanty more to learn!
 
-</p>
+  <p>
+      📚 And although I have learnt a lot in the year post PhD, I know I have pleanty more to learn!
+  </p>
 
 ### My Published work
   
