@@ -48,6 +48,8 @@
   📸 Art/ photography appreciator 
   
   🏊‍♂️ Avid swimmer
+
+  🤓 Dyslexic- if you see a spelling mistake, feel free to tell me!
   
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/TheSultan9000)
