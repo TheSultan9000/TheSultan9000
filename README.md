@@ -61,3 +61,7 @@
 ### Operating Systems
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/TheSultan9000)
 [![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=iOS)](https://github.com/TheSultan9000)
+
+<a href="https://github.com/TheSultan9000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSultan9000&langs_count=10&exclude_repo=&hide=&card_width=699&hide_border=true&theme=transparent" />
+</a>
