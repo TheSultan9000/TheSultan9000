@@ -11,7 +11,8 @@
 #### I was not always on the path of data sceince
 <p> 
     
-    👨‍🎓 I completed my BSc in Biomedical science (Brunel university London), my MSc in Immunology (Imperial College London) and my PhD in Regenerative medicine (King's College London)
+    👨‍🎓 I completed my BSc in Biomedical science (Brunel university London), 
+       my MSc in Immunology (Imperial College London) and my PhD in Regenerative medicine (King's College London)
 
     🧑‍🏫 During my studies I had the oppertunity to work with statisticians which ignited my passion for data science
 
@@ -21,7 +22,8 @@
     </i>
   </p>
     
-    🖥️ Since completing my PhD I have made it my mission to learn as much as possible in the way of programming languages to help my progression in data science
+    🖥️ Since completing my PhD I have made it my mission to learn as much as possible in the way of programming
+       languages to help my progression in data science
 
   <p align="center">
     <i>
