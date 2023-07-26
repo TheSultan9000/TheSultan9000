@@ -36,14 +36,14 @@
       📚 And although I have learnt a lot in the year post PhD, I know I have pleanty more to learn!
   </p>
 
-<br>
+
 ### My Published work
   
   * My paper which is the root of my passion for data science- <a href="https://doi.org/10.3389/fcell.2021.726281"> Sultan et al., 2021 (https://doi.org/10.3389/fcell.2021.726281)</a>
   
   * Checkout my repositories for the outputs from my learning and training
 
-<br>
+
 ### A bit about me
   
   🧝‍♀️ Sci fi fantasy nerd
