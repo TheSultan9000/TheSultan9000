@@ -48,12 +48,7 @@
   📸 Art/ photography appreciator 
   
   🏊‍♂️ Avid swimmer
-
-
-### Operating Systems
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/AnthonyBane)
-[![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=iOS)](https://github.com/AnthonyBane)
-
+  
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/TheSultan9000)
 [![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R)](https://github.com/TheSultan9000)
@@ -61,10 +56,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)](https://github.com/TheSultan9000)
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML)](https://github.com/TheSultan9000) [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS)](https://github.com/TheSultan9000)
 
-
-<p align="center">
-  <a href="https://github.com/TheSultan9000">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSultan9000&langs_count=10&exclude_repo=&hide=&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
-
+### Operating Systems
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/TheSultan9000)
+[![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=iOS)](https://github.com/TheSultan9000)
