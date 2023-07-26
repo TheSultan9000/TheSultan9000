@@ -10,11 +10,10 @@
 ### My background
 #### I was not always on the path of data sceince
 <p> 
-    
     👨‍🎓 I completed my BSc in Biomedical science (Brunel university London), my MSc in Immunology (Imperial College London) and my PhD in Regenerative medicine (King's College London)
-    
+</p>
+<p>
     🧑‍🏫 During my studies I had the oppertunity to work with statisticians which ignited my passion for data science
-    
 </p>
 
   <p align="center">
